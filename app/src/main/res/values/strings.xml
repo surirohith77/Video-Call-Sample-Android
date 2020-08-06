@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VideoTring</string>
+    <string name="mbl">mobile</string>
+    <string name="name">name</string>
+    <string name="preference_file_key">com.rs.videotring.PREF_FILE</string>
+    <string name="image_reason">img</string>
+    <string name="error_connection_request_failed">Error connegion faiiled</string>
+    <string name="error_order_request_not_available">NO users are available</string>
+    <string name="error_invalid_data">Invalid data</string>
+
+</resources>
